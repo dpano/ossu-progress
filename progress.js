@@ -7,12 +7,12 @@ var progress = [
 		{
 			name: 'Introduction to Computer Science - CS50',
 			url: 'https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!',
-			status: 'todo'
+			status: 'done'
 		},
 		{
 			name: 'Introduction to Computer Science and Programming using Python',
 			url: 'https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10',
-			status: 'todo'
+			status: 'doing'
 		}
 	]},
 	{
